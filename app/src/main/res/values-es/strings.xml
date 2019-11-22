@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TareaMulti</string>
+    <string name="btn_entrar">Entrar</string>
+    <string name="msg_main">Bienvenido</string>
+</resources>
